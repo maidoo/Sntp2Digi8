@@ -9,3 +9,10 @@ Make SNTP sync by NodeMCU(ESP8266) to TM1637-drived digital 8 display.
 -- 20181026，v2，支持设置3个NTP服务器地址
 -- 20181201，v3，支持整点报时，驱动有源蜂鸣器叫两声
 
+
+参见 金叔制作的3面全显示电子钟
+http://bbs.mydigit.cn/read.php?tid=2627177&page=1
+ 
+NodeMCU 需要支持的Module，定制固件：
+https://nodemcu-build.com/faq.php
+ 
